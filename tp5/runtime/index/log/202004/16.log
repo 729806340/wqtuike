@@ -1,0 +1,5 @@
+[2020-04-16T16:10:40+08:00][error] [8192]Non-static method think\View::assign() should not be called statically
+[2020-04-16T16:10:41+08:00][error] [8192]Non-static method think\View::assign() should not be called statically
+[2020-04-16T16:12:48+08:00][error] [8192]Non-static method think\View::assign() should not be called statically
+[2020-04-16T16:14:08+08:00][error] [8192]Non-static method think\View::fetch() should not be called statically
+[2020-04-16T16:15:22+08:00][error] [0]Driver [Think] not supported.
